@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.avatar {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+   text-align: center;
+    background: #fffbd2;
+    color: #060503;
+    border: 2px solid rgb(62, 57, 57);
+}
+
